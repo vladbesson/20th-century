@@ -1,0 +1,17 @@
+{
+  "name": "20th-century",
+  "description": "Mail template with autoinlining styles",
+  "author": "Nikolay Belikov",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-clean": "^0.3.1",
+    "gulp-email": "0.0.6",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-inline-css": "^2.0.0",
+    "gulp-load-plugins": "^1.0.0-rc.1",
+    "gulp-minify-html": "^1.0.3",
+    "gulp-ruby-sass": "^1.0.5"
+  }
+}
