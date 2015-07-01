@@ -131,6 +131,7 @@ p {
 - [Creating a Simple Responsive HTML Email](http://dev.tutsplus.com/articles/creating-a-simple-responsive-html-email--webdesign-12978)
 - Вёрстка адаптивных email-писем (подробное руководство): [часть 1](http://habrahabr.ru/company/pechkin/blog/256853/), [часть 2](http://habrahabr.ru/company/pechkin/blog/257397/)
 - [Things I've Learned About Building & Coding HTML Email Templates](http://www.leemunroe.com/building-html-email/)
+- [Creating a Future-Proof Responsive Email Without Media Queries](http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919)
 
 ### Инструменты
 
