@@ -133,6 +133,7 @@ p {
 - [Things I've Learned About Building & Coding HTML Email Templates](http://www.leemunroe.com/building-html-email/)
 - [Creating a Future-Proof Responsive Email Without Media Queries](http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919)
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/)
+- [A Guide for SVG Support in Email](https://css-tricks.com/a-guide-on-svg-support-in-email/)
 
 ### Инструменты
 
