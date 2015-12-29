@@ -134,6 +134,7 @@ p {
 - [Creating a Future-Proof Responsive Email Without Media Queries](http://webdesign.tutsplus.com/tutorials/creating-a-future-proof-responsive-email-without-media-queries--cms-23919)
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/)
 - [A Guide for SVG Support in Email](https://css-tricks.com/a-guide-on-svg-support-in-email/)
+- [Вёрстка писем: 60 полезных ресурсов, руководств и исследований](http://habrahabr.ru/company/pechkin/blog/273677/)
 
 ### Инструменты
 
